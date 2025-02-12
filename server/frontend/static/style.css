@@ -41,6 +41,18 @@ img{
   padding:5px;
 }
 
+.subtitle{
+  font-size: 16px;
+  color: rgb(154, 129, 129);
+  text-align: left;
+  font-weight: bold;
+}
+
+.email{
+    font-style: italic;
+}
+
+
 .homepage_links{
   color:  rgb(97, 64, 128);
   padding: 25%;
