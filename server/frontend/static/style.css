@@ -22,6 +22,7 @@ img{
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 20px;
 }
 
 .row{
@@ -146,4 +147,12 @@ img{
     border-radius:50px;
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
+}
+
+.vertical-line{
+    width:2px;
+    height:175px;
+    background-color:#5d1818;
+    margin: 0 auto;
+    transform: rotate(180deg)
 }
